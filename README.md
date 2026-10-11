@@ -57,6 +57,6 @@ Bab ini membahas sigmoid, tanh, ReLU, dan softmax, termasuk turunan serta pemili
 
 Bab ini memperkenalkan local connectivity, weight sharing, kernel, dan feature map. Notebook mereproduksi CNN MNIST dengan 16 kernel berukuran 3 × 3 selama 300 epoch. Pembahasan meliputi ekstraksi patch, jumlah parameter, konsep pooling, serta backpropagation pada kernel bersama. Perilaku listing sumber dan implementasi pendalaman dijelaskan secara terpisah.
 
-## Referensi
+## Referensii
 
 1. [Repository pendamping buku oleh Andrew W. Trask](https://github.com/iamtrask/Grokking-Deep-Learning).
