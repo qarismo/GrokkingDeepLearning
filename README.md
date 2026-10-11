@@ -4,7 +4,7 @@
 
 | Chapter | Materi utama | Notebook |
 | --- | --- | --- |
-| 1 | Introducing Deep Learning | [Chapter 01 Introducing Deep Learning](01_introducing_Deep_Learning.ipynb) |
+| 1 | Introducing Deep Learning | [Chapter 01 Introducing Deep Learning](01_introducing_deep_learning.ipynb) |
 | 2 | Fundamental Concepts | [Chapter 02 Fundamental Concepts](02_Fundamental_Concepts.ipynb) |
 | 3 | Forward Propagation | [Chapter 03 Forward Propagation](03_Forward_Propagation.ipynb) |
 | 4 | Gradient Descent | [Chapter 04 Gradient Descent](04_Gradient_Descent.ipynb) |
